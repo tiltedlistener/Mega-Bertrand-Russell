@@ -1,4 +1,4 @@
-MEGA BERTRAND RUSSELL
+# MEGA BERTRAND RUSSELL
 
 A spoof of a game YetiBowl by Tag Creative Studio - http://tagcreativestudio.com/
 
