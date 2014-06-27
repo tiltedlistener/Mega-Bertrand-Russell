@@ -1,6 +1,6 @@
 # MEGA BERTRAND RUSSELL
 
-** INACTIVE BECAUSE IT WAS JOKE **
+**INACTIVE BECAUSE IT WAS JOKE**
 
 A spoof of a game YetiBowl by [Tag Creative Studio](http://tagcreativestudio.com/)
 
