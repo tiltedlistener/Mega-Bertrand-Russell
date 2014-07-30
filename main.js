@@ -10,6 +10,7 @@ window.requestAnimFrame = (function(){
               };
 })();
 
+
 Game = {
 	canvas : {
 		c : document.getElementById('c'),
